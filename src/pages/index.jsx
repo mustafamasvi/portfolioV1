@@ -109,6 +109,8 @@ const Index = () => (
             <li>.Net &amp; .Net Core</li>
             <li>Docker</li>
           </ul>
+
+          Want to hire me? Find my <a href="https://resume.creddle.io/resume/706idqyuigx" target="_blank">Resume</a>
         </AboutDesc>
       </About>
       <Contact offset={4}>
