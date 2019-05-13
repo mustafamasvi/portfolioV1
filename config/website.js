@@ -7,7 +7,7 @@ module.exports = {
   siteTitleAlt: 'Mustafa', // Alternative Site title for SEO
   siteTitleShort: 'Mustafa', // short_name for manifest
   siteHeadline: 'Full Stack Developer', // Headline for schema.org JSONLD
-  siteUrl: 'http://localhost', // Domain of your site. No trailing slash!
+  siteUrl: 'http://mustafamasvi.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logo.png', // Used for SEO and manifest
   siteDescription: 'Full Stack Developer',
