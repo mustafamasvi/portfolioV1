@@ -91,6 +91,21 @@ const Index = () => (
           >
             Advice for new programmers and developers.
           </ProjectCard>
+          <ProjectCard
+            title="11 Habits of Highly Effective Developers Part 1"
+            link="https://medium.com/@mustafamasvi/11-habits-of-highly-effective-developers-habits-1-6-dd55d004b757"
+            bg="linear-gradient(to right, #662D8C 0%, #ED1E79 100%)"
+          >
+            6 habits of 11 habits what a developer should have to be effective developers.
+          </ProjectCard>
+          <ProjectCard
+            title="JavaScript"
+            link="http://dev.mustafamasvi.com/"
+            bg="linear-gradient(to right, #D4145A 0%, #FBB03B 100%)"
+          >
+            Learn some JavaScript 
+          </ProjectCard>
+          
         </ProjectsWrapper>
       </Projects>
       <About offset={3}>
